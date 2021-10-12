@@ -7,3 +7,7 @@ product_data = genfromtxt('gold.csv', delimiter=',')
 print(product_data)
 # display initial 5 records
 print(product_data)
+# display initial 5 records
+print(product_data)
+# display initial 5 records
+print(product_data)
